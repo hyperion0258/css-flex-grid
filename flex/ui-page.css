@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 1rem;
+}
+
+/* header에 justify-content: space=between; 대신 사용 가능 */
+/* .search-form {
+    margin-left: auto;
+} */
+
+.search-form {
+    width: 1500px;
+    max-width: 10%;
+}
+
+.primary {
+    padding: 1rem;
+}
